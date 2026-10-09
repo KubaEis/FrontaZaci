@@ -103,4 +103,5 @@ public class Fronta {
     public void setFrontaZaku(Zak[] frontaZaku) {
         this.frontaZaku = frontaZaku;
     }
+
 }

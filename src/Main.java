@@ -13,6 +13,7 @@ void main() {
 
     fronta.chodPrvniho();
 
+
     fronta.findZak("fuchs");
 
 }

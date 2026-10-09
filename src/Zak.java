@@ -27,4 +27,5 @@ public class Zak {
     public void setCisloChodu(int cisloChodu) {
         this.cisloChodu = cisloChodu;
     }
+
 }
